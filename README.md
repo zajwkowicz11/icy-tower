@@ -1,2 +1,2 @@
 # icy-tower
-gra icy tower w html2
+gra icy tower w htm20
