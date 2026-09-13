@@ -1,2 +1,2 @@
 # icy-tower
-gra icy tower w html5
+gra icy tower w html6
